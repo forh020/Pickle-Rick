@@ -7,3 +7,12 @@ at /login.php found the login page
 
 after login with R1ckRul3s Wubbalubbadubdub got the text area to enter the command
 
+opening the below txt file with less command
+Sup3rS3cretPickl3Ingred.txt
+
+found the path the next file
+/home/rick/second ingredients
+less /home/rick/"second ingredients"
+
+third ingredient present in the root
+sudo commadn requires to root access
