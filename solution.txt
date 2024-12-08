@@ -1,0 +1,9 @@
+port 80 open
+source code of web page
+commnet part  Username: R1ckRul3s
+
+at /robots.txt Wubbalubbadubdub
+at /login.php found the login page
+
+after login with R1ckRul3s Wubbalubbadubdub got the text area to enter the command
+
